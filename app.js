@@ -1,7 +1,7 @@
 window.onload=() =>{
 
 function toUpperCase(){
-    let texto=document.getElementById("texto").value;
+    let texto=document.getElementById("texto").value;git log
     console.log(texto)
     //cambiamos el texto a mayusculas
     document.getElementById("texto").value=texto.toUpperCase();
